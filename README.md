@@ -14,19 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
--🔭 I’m currently working on honing my skills in data analysis and database development.
+🔭 I’m currently working on honing my skills in data analysis and database development.
 
--🌱 I’m growing with SQL, Python, ML and Power BI.
+🌱 I’m growing with SQL, Python, ML and Power BI.
 
--👯 I’m looking to collaborate on projects related to data analysis or database development.
+👯 I’m looking to collaborate on projects related to data analysis or database development.
 
--🤔 I’m looking for help with advancing my knowledge in Digital Intelligence.
+🤔 I’m looking for help with advancing my knowledge in Digital Intelligence.
 
--💬 Ask me about front-end development and data analysis.
+💬 Ask me about front-end development and data analysis.
 
--🕵️‍♀️ I enjoy investigating datasets.
+🕵️‍♀️ I enjoy investigating datasets.
 
--📫 You can reach out to my mail: sayantanidey76@gmail.com
+📫 You can reach out to my mail: sayantanidey76@gmail.com
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayantani-dey&layout=compact)
 

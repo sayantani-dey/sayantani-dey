@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, This is Sayantani Dey👋
 
 <!--
 **sayantani-dey/sayantani-dey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔭 I’m currently working on honing my skills in data analysis and database development.
+🌱 I’m growing with SQL, Python, ML and Power BI.
+👯 I’m looking to collaborate on projects related to data analysis or database development.
+🤔 I’m looking for help with advancing my knowledge in Digital Intelligence.
+💬 Ask me about front-end development and data analysis.
+🕵️‍♀️ I enjoy investigating datasets.
+📫 How to reach me: 
+[1]: http://www.github.com/sayantani-dey
+[2]: [https://www.linkedin.com/in/sayantani-dey-a](https://www.linkedin.com/in/sayantani-dey-25741020a/)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayantani-dey&layout=compact)
 
 ![Sayantani's GitHub stats](https://github-readme-stats.vercel.app/api?username=sayantani-dey&hide=prs&show_icons=true&theme=transparent)

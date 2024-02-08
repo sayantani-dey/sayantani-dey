@@ -16,6 +16,5 @@ Here are some ideas to get you started:
 -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayantani-dey&layout=compact)
 
-![Sayantani's GitHub stats](https://github-readme-stats.vercel.app/api?username=sayantani-dey&hide=contribs,prs&show_icons=true&theme=transparent)
+![Sayantani's GitHub stats](https://github-readme-stats.vercel.app/api?username=sayantani-dey&hide=prs&show_icons=true&theme=transparent)
 
-![Sayantani's GitHub stats](https://github-readme-stats.vercel.app/api?username=sayantani-dey&show_icons=true&theme=transparent)

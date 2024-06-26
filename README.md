@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 👯 I’m looking to collaborate on projects related to data analysis or database development.
 
-🤔 I’m looking for help with advancing my knowledge in Digital Intelligence.
+🤔 I’m looking for help with advancing my knowledge in Data Intelligence.
 
 💬 Ask me about front-end development and data analysis.
 

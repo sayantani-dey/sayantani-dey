@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 🔭 I’m currently working on honing my skills in data analysis and database development.
 
-🌱 I’m growing with SQL, Python, ML and Power BI.
+🌱 I’m growing with SQL, Python and Power BI.
 
 👯 I’m looking to collaborate on projects related to data analysis or database development.
 

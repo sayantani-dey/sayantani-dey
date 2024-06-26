@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 🤔 I’m looking for help with advancing my knowledge in Data Intelligence.
 
-💬 Ask me about front-end development and data analysis.
+💬 Ask me about data analysis.
 
 🕵️‍♀️ I enjoy investigating datasets.
 

@@ -18,10 +18,6 @@ Here are some ideas to get you started:
 
 🌱 I’m growing with SQL, Python and Power BI.
 
-👯 I’m looking to collaborate on projects related to data analysis or database development.
-
-🤔 I’m looking for help with advancing my knowledge in Data Intelligence.
-
 💬 Ask me about data analysis.
 
 🕵️‍♀️ I enjoy investigating datasets.
